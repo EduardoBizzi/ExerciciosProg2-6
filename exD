@@ -1,0 +1,8 @@
+6-R: Retorna a*(a quantidade de vezes que a cabe entre b e c).
+7-R: Depende. Se a soma do resto + soma do valor da divisão de num por 100, tudo isso *2, for igual ao próprio num.
+então a resposta é sim. Se não, não.
+8-R: Apresenta a quantidade de divisores de num, tirando um e ele mesmo.
+9-R: Retorna a*(a quantidade de vezes que a cabe entre b e c).
+10-R:  Depende. Se a soma do resto + soma do valor da divisão de num por 100, tudo isso *2, for igual ao próprio num.
+então a resposta é sim. Se não, não.
+11-R: Apresenta a quantidade de divisores de num, tirando um e ele mesmo.
